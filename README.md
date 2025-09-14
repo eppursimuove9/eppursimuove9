@@ -50,6 +50,8 @@ My skill set bridges the gap between high-level strategy and hands-on implementa
 
 ### 🛠️ Skills & Technologies
 
+### 🛠️ Skills & Technologies
+
 <table align="center">
   <tr>
     <td align="center"><strong>I Have</strong></td>
@@ -58,21 +60,21 @@ My skill set bridges the gap between high-level strategy and hands-on implementa
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=plastic&logo=wordpress&logoColor=white" alt="WordPress">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" alt="PHP">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript">
       <br>
-      <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce">
-      <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot">
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+      <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=plastic&logo=salesforce&logoColor=white" alt="Salesforce">
+      <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=plastic&logo=hubspot&logoColor=white" alt="HubSpot">
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" alt="Power BI">
       <br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white" alt="OpenAI">
+      <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker">
     </td>
     <td align="center">
       </td>
