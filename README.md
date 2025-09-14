@@ -43,7 +43,7 @@
     </td>
     <td valign="top" width="35%">
       <div align="center">
-        <img src="https://i.giphy.com/media/WFZvB7VIXBgiz3o2E5/giphy.webp" alt="Strategy & Tech Animation" width="100%"/>
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Seamless Coding Animation" width="100%"/>
       </div>
     </td>
   </tr>
