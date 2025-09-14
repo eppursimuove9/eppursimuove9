@@ -43,7 +43,7 @@
     </td>
     <td valign="top" width="35%">
       <div align="center">
-        <img src="https://giphy.com/gifs/matrix-coding-glitchy-QKDpE67Rc7rpjBmQPj/giphy.gif" alt="Code Waterfall Animation" width="100%"/> 
+        <img src="https://media.giphy.com/media/QKDpE67Rc7rpjBmQPj/giphy.gif" alt="Matrix Code Animation" width="100%"/> 
       </div>
     </td>
   </tr>
