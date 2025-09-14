@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://gpvc.arturio.dev/AlexRojasSegovia" alt="Alex Rojas Segovia - Profile Views">
+  <img src="https://gpvc.arturio.dev/AlexRojasSegovia" alt="Alex Rojas Segovia - Profile Views Counter">
   
   <h1>Hi there, I'm Alex 👋</h1>
   <h3>Go-to-Market Strategist & Technology Architect</h3>
@@ -44,7 +44,7 @@
     </td>
     <td valign="top" width="35%">
       <div align="center">
-        <img src="https://i.giphy.com/media/WFZvB7VIXBgiz3o2E5/giphy.webp" alt="Strategy & Tech GIF" width="100%"/>
+        <img src="https://i.giphy.com/media/WFZvB7VIXBgiz3o2E5/giphy.webp" alt="Strategy & Tech Animation" width="100%"/>
       </div>
     </td>
   </tr>
@@ -52,7 +52,7 @@
 
 ---
 
-<h2 align="center">🛠️ My Tech Stack & Expertise</h2>
+<h2 align="center">🛠️ My Expertise & Tech Stack</h2>
 
 <table width="100%">
   <tr>
@@ -71,8 +71,10 @@
       <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <br>
       <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce">
       <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot">
+      <br>
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
@@ -81,6 +83,7 @@
       <img src="https://img.shields.io/badge/GenAI_Strategy-9659F5?style=for-the-badge" alt="GenAI Strategy">
       <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
       <img src="https://img.shields.io/badge/Google_Gemini-8E77EE?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Google Gemini">
+      <br>
       <img src="https://img.shields.io/badge/n8n-1A8257?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
       <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier">
       <img src="https://img.shields.io/badge/Prompt_Engineering-434343?style=for-the-badge" alt="Prompt Engineering">
@@ -90,21 +93,16 @@
 
 ---
 
-<h2 align="center">✨ Featured Project</h2>
+<h2 align="center">💻 My Favorite Tools</h2>
 
-<table width="100%">
-  <tr>
-    <td width="100%">
-      <h3 align="center"><a href="https://thewolfhoundexperience.com/">The Wolfhound Experience - WordPress Site</a></h3>
-      <p align="center">
-        This repository contains the source code for a bespoke WordPress website built for a unique Irish tourism business. The project showcases a custom theme, third-party API integrations, and automation scripts. It serves as the company's primary marketing and booking platform.
-      </p>
-      <p align="center">
-        <strong>Technologies Used:</strong> WordPress, Custom PHP, JavaScript, Stripe API Integration, Advanced Custom Fields
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="iTerm2">
+</p>
 
 ---
 
@@ -113,4 +111,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eppursimuove9&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eppursimuove9&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages">
+</p>
+
+---
+
+<h2 align="center">⚡ In My Down Time</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+  <img src="https://img.shields.io/badge/Audible-F8991E?style=for-the-badge&logo=audible&logoColor=white" alt="Audible">
 </p>
