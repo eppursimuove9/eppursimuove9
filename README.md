@@ -1,91 +1,90 @@
-# Alex Rojas Segovia | Go-to-Market Strategist & Technology Architect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alexrojassegovia/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://aineurolytics.com/alex-rojas-segovia">
-    <img src="https://img.shields.io/badge/Personal_Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/>
-  </a>
-</p>
-
----
-
-### Hi there! 👋 I'm Alex.
-
-I am a Go-to-Market Strategist and Technology Advisor with over nine years of experience architecting and executing revenue-generating systems for high-growth SaaS platforms and enterprise clients. My expertise lies at the intersection of corporate strategy and technical execution, where I build and scale digital ecosystems that deliver measurable business impact.
-
-I have a proven track record of driving outcomes like **40%+ growth in lead conversion** and pioneering AI-powered MarTech solutions that have increased **digital engagement by over 200%**. As a trusted advisor to the global investment community, I've shaped high-stakes M&A and strategy decisions through **100+ expert consultations** with venture capital and private equity firms.
+<div align="center">
+  <h1>Alex Rojas Segovia</h1>
+  <h3>Go-to-Market Strategist & Technology Architect</h3>
+  <p>Connecting high-level business strategy with hands-on technical execution to drive measurable growth.</p>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/alex-rojas-segovia/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://aineurolytics.com/alex-rojas-segovia">
+      <img src="https://img.shields.io/badge/Personal_Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-### 💡 My Philosophy: From Insight to Impact
-
-My approach is centered on transforming data-driven insights into tangible business results. I believe the most powerful solutions are born from a deep understanding of market dynamics, customer behavior, and technological capabilities.
-
-* **📈 Data-Driven Strategy:** I leverage deep-dive analysis to inform high-stakes decisions on M&A, market entry, and technology adoption.
-* **🌐 Ecosystem Architecture:** I architect and scale systems that empower partners and streamline operations. I've led initiatives that boosted partner certification rates by **40%** and cut onboarding time by **28%** through automation.
-* **🤖 AI-Powered Automation:** I build custom MarTech stacks using platforms like n8n and Zapier to unify data and create seamless workflows between marketing, sales, and service operations.
-
----
-
-### 🛠️ Core Competencies & Technologies
-
-My skill set bridges the gap between high-level strategy and hands-on implementation.
-
-| Strategy & Advisory        | Technology & Development           | AI & Automation                  |
-| -------------------------- | ---------------------------------- | -------------------------------- |
-| Go-to-Market (GTM) Strategy | WordPress & Custom Theming         | GenAI Strategy & Impact Analysis |
-| M&A Due Diligence        | CRM (Salesforce, HubSpot)       | Workflow Automation (n8n, Zapier) |
-| Partner Ecosystems       | BI & Data (Power BI, SQL, Python) | Prompt Engineering (OpenAI, Gemini)  |
-| Corporate & Tech Advisory  | JavaScript (HTML/CSS/JS)      | AI Coding Agents & Workflows     |
-
----
-
-### 📊 My GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eppursimuove9&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 🛠️ Skills & Technologies
-
-### 🛠️ Skills & Technologies
-
-<table align="center">
+<table>
   <tr>
-    <td align="center"><strong>I Have</strong></td>
-    <td align="center"><strong>I'm Learning</strong></td>
-    <td align="center"><strong>In the Memory Banks</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=plastic&logo=wordpress&logoColor=white" alt="WordPress">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" alt="PHP">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript">
-      <br>
-      <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=plastic&logo=salesforce&logoColor=white" alt="Salesforce">
-      <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=plastic&logo=hubspot&logoColor=white" alt="HubSpot">
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" alt="Power BI">
-      <br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white" alt="OpenAI">
-      <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git">
+    <td valign="top" width="65%">
+      <h2 align="center">🚀 About Me</h2>
+      <p>
+        [cite_start]I'm a Go-to-Market Strategist and Technology Advisor with over nine years of experience architecting revenue-generating systems for high-growth SaaS platforms[cite: 3]. My expertise lies in building and scaling digital ecosystems that deliver tangible business impact.
+      </p>
+      <ul>
+        [cite_start]<li> proven track record of driving outcomes like <strong>40%+ growth in lead conversion</strong> [cite: 4] [cite_start]and pioneering AI-powered MarTech solutions that have increased <strong>digital engagement by over 200%</strong>[cite: 4].</li>
+        [cite_start]<li> a trusted advisor to the global investment community, shaping high-stakes M&A and strategy decisions through <strong>100+ expert consultations</strong>[cite: 5].</li>
+        [cite_start]<li> an architect of scalable systems that empower partners, having led initiatives that boosted partner certification rates by <strong>40%</strong> and cut onboarding time by <strong>28%</strong> through automation[cite: 29, 32].</li>
+      </ul>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker">
+    <td valign="top" width="35%">
+      <div align="center">
+        <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding GIF" width="100%"/>
+      </div>
     </td>
-    <td align="center">
-      </td>
   </tr>
 </table>
 
 ---
 
-### 📫 Let's Connect
+<h2 align="center">🛠️ My Tech Stack & Skills</h2>
 
-I'm always open to discussing new projects, sharing insights on market trends, or exploring opportunities to build impactful technology.
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
+  <a href="#"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"></a>
+  <a href="#"><img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google_Gemini-8E77EE?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Google Gemini"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+</p>
 
-* **Email:** [alexrojas8922@gmail.com](mailto:alexrojas8922@gmail.com)
-* **LinkedIn:** [linkedin.com/in/alex-rojas-segovia](https://www.linkedin.com/in/alexrojassegovia/)
+---
+
+<h2 align="center">📊 My GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eppursimuove9&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eppursimuove9&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages">
+</p>
+
+---
+
+<h2 align="center">📫 Let's Connect</h2>
+
+<p align="center">
+  I'm always open to discussing new projects, sharing insights on market trends, or exploring opportunities to build impactful technology.
+</p>
+
+<p align="center">
+  <a href="mailto:alexrojas8922@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alex-rojas-segovia/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
