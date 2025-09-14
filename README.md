@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://gpvc.arturio.dev/AlexRojasSegovia" alt="Alex Rojas Segovia - Profile Views Counter">
   
   <h1>Hi there, I'm Alex 👋</h1>
   <h3>Go-to-Market Strategist & Technology Architect</h3>
