@@ -1,3 +1,4 @@
+<div align="center">
  <h1>Hi there, I'm Alex 👋</h1>
   <h3>Go-to-Market Strategist & Technology Architect</h3>
   
