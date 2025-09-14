@@ -87,6 +87,13 @@
   <img src="https://img.shields.io/badge/Oracle_(Cloud_•_AI_•_Arch)-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
 </p>
 
+<h3 align="center">🌱 Currently Learning</h3>
+<p align="center">
+  Deepening my expertise in Data Science through the <strong>Oracle Next Education (ONE)</strong> program.
+  <br>
+  <img src="https://img.shields.io/badge/Data_Science-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Data Science with Oracle">
+</p>
+
 ---
 
 <h2 align="center">📊 My GitHub Stats</h2>
