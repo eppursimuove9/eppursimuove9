@@ -53,4 +53,4 @@ My skill set bridges the gap between high-level strategy and hands-on implementa
 I'm always open to discussing new projects, sharing insights on market trends, or exploring opportunities to build impactful technology.
 
 * **Email:** [alexrojas8922@gmail.com](mailto:alexrojas8922@gmail.com)
-* **LinkedIn:** [linkedin.com/in/alex-rojas-segovia](https://www.linkedin.com/in/alex-rojas-segovia/)
+* **LinkedIn:** [linkedin.com/in/alex-rojas-segovia](https://www.linkedin.com/in/alexrojassegovia/)
