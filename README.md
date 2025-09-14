@@ -40,12 +40,6 @@
         <li>🌐 Boosting partner certification rates by <strong>40%</strong> by designing scalable partner enablement frameworks.</li>
         <li> streamlining operations to cut partner onboarding time by <strong>28%</strong> through automation.</li>
       </ul>
-    </td>
-    <td valign="top" width="35%">
-      <div align="center">
-        <img src="https://media.giphy.com/media/QKDpE67Rc7rpjBmQPj/giphy.gif" alt="Matrix Code Animation" width="100%"/> 
-      </div>
-    </td>
   </tr>
 </table>
 
