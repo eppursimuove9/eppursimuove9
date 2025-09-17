@@ -98,8 +98,8 @@
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eppursimuove9&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eppursimuove9&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages">
+  <img src="https://mis-stats-github.vercel.app/api?username=eppursimuove9&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
+  <img src="https://mis-stats-github.vercel.app/api/top-langs/?username=eppursimuove9&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages">
 </p>
 
 ---
