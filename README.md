@@ -34,7 +34,7 @@
     <li>🚀 Achieving <strong>40%+ growth in lead conversion</strong> by engineering full-funnel GTM strategies.</li>
     <li>💡 Increasing <strong>digital engagement by over 200%</strong> through pioneering AI-powered MarTech solutions.</li>
     <li>🌐 Boosting partner certification rates by <strong>40%</strong> by designing scalable partner enablement frameworks.</li>
-    <li> streamlining operations to cut partner onboarding time by <strong>28%</strong> through automation.</li>
+    <li>🚀 Streamlining operations to cut partner onboarding time by <strong>28%</strong> through automation.</li>
 </ul>
 
 ---
@@ -90,6 +90,7 @@
 <p align="center">
   Deepening my expertise in Data Science through the <strong>Oracle Next Education (ONE)</strong> program.
   <br>
+    <br>
   <img src="https://img.shields.io/badge/Data_Science-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Data Science with Oracle">
 </p>
 
