@@ -50,7 +50,7 @@
   <tr>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/Go--to--Market_(GTM)-00A1E0?style=for-the-badge" alt="GTM Strategy">
-      <img src="https://img.shields.io/badge/End-to-End Product Strategy-4A4A4A?style=for-the-badge" alt="End-to-End Product Strategy">
+      <img src="https://img.shields.io/badge/End--to--End Product Strategy-4A4A4A?style=for-the-badge" alt="End-to-End Product Strategy">
       <img src="https://img.shields.io/badge/Partner_Ecosystems-36454F?style=for-the-badge" alt="Partner Ecosystems">
       <img src="https://img.shields.io/badge/Corporate_Strategy-B22222?style=for-the-badge" alt="Corporate Strategy">
     </td>
