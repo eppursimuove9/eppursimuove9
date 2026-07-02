@@ -25,7 +25,7 @@
 
 <h2 align="center">🚀 What I Do</h2>
 <p>
-  With 10+ years across B2B enterprise sales, large-scale operational leadership, global SaaS (HubSpot), and RevOps consulting, I've operated at every level of the revenue lifecycle — from quota-carrying account executive, to <strong>$14.4M P&L ownership</strong> leading teams of 200+, to architecting global partner revenue operations across 250+ partners.
+  With 10+ years across B2B enterprise sales, large-scale operational leadership, global SaaS, and RevOps consulting, I've operated at every level of the revenue lifecycle — from quota-carrying account executive to <strong>$14.4M P&L ownership</strong> leading teams of 200+, to architecting global partner revenue operations across 250+ partners.
 </p>
 <p>
   As a <strong>GLG Advisory Council Member</strong>, I've also evaluated GTM maturity, unit economics, and operational architecture across <strong>20+ B2B SaaS and enterprise companies</strong> for institutional investors.
